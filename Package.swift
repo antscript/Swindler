@@ -20,7 +20,7 @@ let package = Package(
         .package(url: "https://github.com/tmandry/AXSwift.git", from: "0.3.2"),
         .package(url: "https://github.com/mxcl/PromiseKit.git", from: "6.13.3"),
         .package(url: "https://github.com/Quick/Quick.git", from: "4.0.0"),
-        .package(url: "https://github.com/Quick/Nimble.git", from: "7.3.1"),
+        .package(url: "https://github.com/Quick/Nimble.git", from: "7.3.4"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
