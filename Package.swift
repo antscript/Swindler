@@ -18,7 +18,7 @@ let package = Package(
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
         .package(url: "https://github.com/tmandry/AXSwift.git", from: "0.3.2"),
-        .package(url: "https://github.com/mxcl/PromiseKit.git", from: "6.13.3"),
+        .package(url: "https://github.com/mxcl/PromiseKit.git", from: "6.22.1"),
         .package(url: "https://github.com/Quick/Quick.git", from: "4.0.0"),
         .package(url: "https://github.com/Quick/Nimble.git", from: "7.3.4"),
     ],
